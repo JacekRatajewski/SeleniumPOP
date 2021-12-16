@@ -1,0 +1,9 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/SeleniumPOP/.vs/SeleniumPOP
+/SeleniumPOP/SE.Google.Tests/obj
+/SeleniumPOP/SE.Google.Tests/bin/Debug/net6.0
+/SeleniumPOP/SE.Shared/bin/Debug/net6.0
+/SeleniumPOP/SE.Shared/obj
