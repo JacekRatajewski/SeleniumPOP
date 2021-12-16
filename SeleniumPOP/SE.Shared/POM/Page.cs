@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SE.Shared.POM
 {
-    public class Page<T>
+    public abstract class Page<T>
     {
         public IWebDriver Driver;
         private string _dataPath;
